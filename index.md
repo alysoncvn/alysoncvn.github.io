@@ -7,7 +7,7 @@
 ##### project with other people as you can all work on the file at the same time and 
 ##### it is easy to consolidate your work.  
 
-### What kind of files/info should be saved in a Git repository? What types of files/infoshould not be included in a Git repository?
+### What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repository?
 ##### Large data files can be saved in a Git repository. However, data that you do not 
 ##### want others to see should not be saved. 
 
